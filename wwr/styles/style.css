@@ -54,6 +54,7 @@ h4 {
 }
 .book, .join {
     color: #f4f4f5;
+    background-color: #8a99a8;
 }                    
 .book:hover, .join:hover {
     color: #f4f4f5;
