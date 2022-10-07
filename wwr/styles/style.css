@@ -43,5 +43,36 @@ nav a:hover {
 footer {
     background-color: #8a99a8;
 }
-
-                    
+nav a:hover {
+color: #f4f4f5;
+}
+.home-title {
+    color: #2c3d55;
+}
+h4 {
+    color: #2c3d55;
+}
+.book, .join {
+    color: #f4f4f5;
+}                    
+.book:hover, .join:hover {
+    color: #f4f4f5;
+}
+.msg h2 {
+    color: #2c3d55;
+}
+.msg h2 {
+    color: #2c3d55;
+}
+.msg p {
+    color: #2c3d55;
+}
+footer {
+    color: white;
+}
+footer a {
+    color: white;
+}
+footer a:hover {
+    color: white;
+}
