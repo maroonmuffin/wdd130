@@ -5,6 +5,9 @@
 nav a {
     text-align: center;
 }
+#hero-box {
+    margin: 0 auto;
+}
 #hero-msg h1 {
     text-align: center;
 }
@@ -19,6 +22,7 @@ main section {
 }
 #background {
     height: 725px;
+    margin: 0 auto;
 }
 body {
     background-color: #fcfbfb; 
