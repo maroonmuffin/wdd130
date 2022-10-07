@@ -23,6 +23,7 @@ main section {
 #background {
     height: 725px;
     margin: 0 auto;
+    background-color: #f4f4f5;
 }
 body {
     background-color: #fcfbfb; 
@@ -33,4 +34,14 @@ header {
 nav a:hover {
     background-color: #2c3d55;
 }
+.book:hover, .join:hover {
+    background-color: #2c3d55;
+}
+.msg {
+    background-color: #8a99a8;
+}
+footer {
+    background-color: #8a99a8;
+}
+
                     
