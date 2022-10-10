@@ -70,7 +70,7 @@ text-decoration: none;
 }
 h4 {
     color: #2c3d55;
-    font-family: monospace;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .book, .join {
     color: #f4f4f5;
@@ -80,7 +80,7 @@ h4 {
     padding:15px 30px;
     margin-top: 50px;
     border-radius: 5px;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }                    
 .book:hover, .join:hover {
     color: #f4f4f5;
@@ -89,25 +89,25 @@ h4 {
 .msg h2 {
     color: #2c3d55;
     line-height: 1.5em;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .msg h2 {
     color: #2c3d55;
     margin: 0;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .msg p {
     color: #2c3d55;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer {
     color: white;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer a {
     color: white;
     text-decoration: none;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer a:hover {
     color: white;
@@ -126,7 +126,7 @@ footer a:hover {
 }
 footer p {
     font-size: 1.2em;
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer p a:hover {
     text-decoration: underline;
