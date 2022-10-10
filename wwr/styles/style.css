@@ -1,3 +1,4 @@
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -5,6 +6,9 @@
 nav a {
     text-align: center;
     text-decoration: none;
+    color: #fcfbfb;
+    padding: 35px;
+    
 }
 #hero-img {
     margin: 0 auto;
@@ -28,6 +32,10 @@ main section {
 }
 body {
     background-color: #fcfbfb; 
+    font-family: monospace;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color:#f4f4f5;
@@ -52,6 +60,8 @@ text-decoration: none;
 }
 .home-title {
     color: #2c3d55;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
 }
 h4 {
     color: #2c3d55;
@@ -60,6 +70,10 @@ h4 {
     color: #f4f4f5;
     background-color: #8a99a8;
     text-decoration: none;
+    font-size: 18px;
+    padding:15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }                    
 .book:hover, .join:hover {
     color: #f4f4f5;
@@ -67,9 +81,11 @@ h4 {
 }
 .msg h2 {
     color: #2c3d55;
+    line-height: 1.5em;
 }
 .msg h2 {
     color: #2c3d55;
+    margin: 0;
 }
 .msg p {
     color: #2c3d55;
@@ -100,4 +116,10 @@ footer p {
 }
 footer p a:hover {
     text-decoration: underline;
+}
+.card-img {
+    border: 10px solid #8a99a8;
+}
+main section img {
+    box-sizing: border-box;
 }
