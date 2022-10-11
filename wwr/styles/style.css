@@ -140,10 +140,10 @@ main section img {
     box-sizing: border-box;
 }
 .rivers-card, .camping-card, .rapids-card  {
- margin: 200px 0;
+ margin: 200px 0px;
 }
 .mountains {
-    margin-top: 200px 0;
+    margin-top: 200px 0px;
 }
 footer  {
 margin-top: 200px;
