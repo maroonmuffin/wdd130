@@ -136,12 +136,14 @@ footer p a:hover {
 .card-img {
     border: 10px solid #8a99a8;
 }
-#hero {
+main section img {
     box-sizing: border-box;
-    border: 10px #2c3d55;
 }
 .rivers-card, .camping-card, .rapids-card  {
  margin: 200px 0;
+}
+.mountains {
+    margin: 200px;
 }
 footer  {
 margin-top: 200px;
