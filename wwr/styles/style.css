@@ -65,8 +65,8 @@ footer {
     background-color: #8a99a8;
 }
 nav a:hover {
-color: #f4f4f5;
-text-decoration: none;
+    color: #f4f4f5;
+    text-decoration: none;
 }
 .home-title {
     color: #2c3d55;
@@ -94,11 +94,6 @@ h4 {
 }
 .msg h2 {
     color: #2c3d55;
-    line-height: 1.5em;
-    font-family: sans-serif;
-}
-.msg h2 {
-    color: #2c3d55;
     margin: 0;
     font-family: sans-serif;
 }
@@ -120,7 +115,6 @@ footer a {
 footer a:hover {
     color: white;
     text-decoration: none;
-
 }
 .logo {
     width: 80px;
@@ -130,8 +124,7 @@ footer a:hover {
     padding-top: 10px;
 }
 #hero-img {
-    width: 100%;
-    
+    width: 100%;    
 }
 footer p {
     font-size: 1.2em;
@@ -143,15 +136,16 @@ footer p a:hover {
 .card-img {
     border: 10px solid #8a99a8;
 }
-main section img {
+#hero {
     box-sizing: border-box;
     border: 10px #2c3d55;
 }
 .rivers-card, .camping-card, .rapids-card  {
- margin: 200px 0;}
-
+ margin: 200px 0;
+}
 footer  {
-margin-top: 200px;}
+margin-top: 200px;
+}
 #logo_link {
     padding-top: 5px;
 }
