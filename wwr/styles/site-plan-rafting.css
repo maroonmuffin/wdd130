@@ -58,12 +58,13 @@ header {
   text-align: center;
   color: var(--paragraph-color-on-color);
   background-color: var(--paragraph-background-color);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 header > h1, header > h2 {
   color: var(--headline-color-on-color);
 }
 p {
-  font-family: var(--paragraph-font);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: var(--paragraph-color);
   padding: 1em;
 }
