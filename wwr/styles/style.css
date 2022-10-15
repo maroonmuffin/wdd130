@@ -86,7 +86,7 @@ h4 {
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold'; 
 }                    
 .book:hover, .join:hover {
     color: #f4f4f5;
@@ -104,13 +104,13 @@ h4 {
 }
 footer {
     color: white;
-    font-family: sans-serif,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: ,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 25px 50px;
 }
 footer a {
     color: white;
     text-decoration: none;
-    font-family:  sans-serif,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 footer a:hover {
     color: white;
@@ -128,7 +128,7 @@ footer a:hover {
 }
 footer p {
     font-size: 1.2em;
-    font-family: sans-serif,monospace,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 footer p a:hover {
     text-decoration: underline;
